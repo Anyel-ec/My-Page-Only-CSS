@@ -182,7 +182,6 @@ input:checked+.slider:before {
 .page-section {
     padding: 80px 0;
     background-color: #f8f9fa;
-    /* Cambia el color de fondo según tus preferencias */
 }
 
 .container {
@@ -198,7 +197,6 @@ input:checked+.slider:before {
 .section-heading {
     font-size: 2.5rem;
     color: #343a40;
-    /* Cambia el color del texto según tus preferencias */
 }
 
 /* Estilos para los subtítulos de sección */
@@ -206,7 +204,6 @@ input:checked+.slider:before {
     font-size: 1.2rem;
     font-style: italic;
     color: #6c757d;
-    /* Cambia el color del texto según tus preferencias */
 }
 
 /* Estilos para las columnas */
@@ -218,7 +215,6 @@ input:checked+.slider:before {
 
 .col-md-4 {
     width: calc(33.3333% - 30px);
-    /* Ajusta el ancho de las columnas según tus necesidades */
     margin: 15px;
 }
 
@@ -235,20 +231,16 @@ h4 {
     font-size: 1.5rem;
     margin: 15px 0;
     color: #343a40;
-    /* Cambia el color del texto según tus preferencias */
 }
 
 /* Estilos para las descripciones de servicio */
 .text-muted {
     font-size: 1rem;
     color: #6c757d;
-    /* Cambia el color del texto según tus preferencias */
 }
 
-/* Cambia el color de fondo cuando el mouse pasa sobre los servicios */
 .col-md-4:hover {
     background-color: #dcdcdc;
-    /* Cambia el color de fondo según tus preferencias */
 }
 
 
@@ -738,7 +730,6 @@ textarea {
     background-color: #2e2f30;
 }
 
-/* Agrega estos estilos a tu archivo de estilos CSS */
 .my-float-img {
     width: 40px;
     /* Ajusta el ancho según tus necesidades */
