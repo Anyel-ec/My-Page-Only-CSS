@@ -4,7 +4,6 @@
 
 ## Tabla de contenido
 - [Descripción](#descripción)
-- [Funciones funciones)
 - [Uso](#uso)
 - [Contribuyendo](#contribuyendo)
 - [Licencia](#licencia)
@@ -36,7 +35,7 @@ Si encuentra algún problema o tiene sugerencias para mejorar, no dude en abrir 
 
 ## Licencia
 
-Este proyecto tiene la licencia [Licencia MIT] (LICENCIA).
+Este proyecto tiene la licencia [Licencia MIT](LICENCIA).
 
 ---
 
